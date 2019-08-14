@@ -16,4 +16,4 @@ XGBoost creator's seminar:
 https://www.youtube.com/watch?v=ufHo8vbk6g4
 
 
-The solution provied was good enough for a top 7 finish.
+The solution provided was good enough for a top 7 finish.
