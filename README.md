@@ -14,3 +14,6 @@ https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/ove
 
 XGBoost creator's seminar:
 https://www.youtube.com/watch?v=ufHo8vbk6g4
+
+
+The solution provied was good enough for a top 7 finish.
