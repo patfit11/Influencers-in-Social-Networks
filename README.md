@@ -9,7 +9,7 @@ The dataset, provided by Peerindex, comprises a standard, pair-wise preference l
 
 The binary label represents a human judgement about which one of the two individuals is more influential. A label '1' means A is more influential than B. 0 means B is more influential than A. The goal of the challenge is to train a machine learning model which, for pairs of individuals, predicts the human judgement on who is more influential with high accuracy. Labels for the dataset have been collected by PeerIndex using an application similar to the one described in this post.
 
-Kaggle COmpetition Page:
+Kaggle Competition Page:
 https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/overview
 
 XGBoost creator's seminar:
